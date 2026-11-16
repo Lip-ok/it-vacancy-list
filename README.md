@@ -16,6 +16,8 @@
 7. [getmatch.ru/vacancies](https://getmatch.ru/vacancies)
 8. [headz.io](https://headz.io/)
 
+9. [openradar.fun](https://openradar.fun/) — агрегатор IT-вакансий и фриланса (API, RSS, MCP)
+
 ### Международные сайты
 1. [indeed.com](https://indeed.com/)
 2. [google.com/about/careers](https://www.google.com/about/careers/)
